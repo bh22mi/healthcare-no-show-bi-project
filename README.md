@@ -46,7 +46,7 @@ Healthcare-No-Show-BI/
 - ✅ No-Shows by Gender
 - ✅ Monthly No-Show Trends
 
-🔗 **[View Dashboard on Tableau Public](#)** (https://public.tableau.com/views/HealthcareAppointmentNo-ShowAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 **[View Dashboard on Tableau Public](https://public.tableau.com/views/HealthcareAppointmentNo-ShowAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -99,7 +99,7 @@ Healthcare-No-Show-BI/
 
 **[Bhoomika Harkhanee]**  
 Aspiring BI Analyst | SQL + Tableau + Python | Data Storytelling  
-🔗 [LinkedIn](www.linkedin.com/in/bhoomika-harkhanee-055223127)
+🔗 [LinkedIn](https://www.linkedin.com/in/bhoomika-harkhanee-055223127)
 
 ---
 
