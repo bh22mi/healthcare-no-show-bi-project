@@ -1,8 +1,3 @@
-Perfect! Since your project is structured with folders, here's the **updated `README.md`** with **accurate folder structure and bold formatting for GitHub** (using Markdown). Paste this into your `README.md` file on GitHub, and GitHub will render all formatting correctly:
-
----
-
-```markdown
 # 🩺 Healthcare Appointment No-Show Analysis (BI Portfolio Project)
 
 A complete Business Intelligence project analyzing why patients miss their appointments. This end-to-end project includes **SQL data modeling**, **data cleaning in Python**, and **interactive dashboards in Tableau** to uncover patterns in patient behavior.
@@ -12,30 +7,25 @@ A complete Business Intelligence project analyzing why patients miss their appoi
 ## 📦 Project Structure
 
 ```
-
 Healthcare-No-Show-BI/
 │
-├── 📁 sql/
+├── 📁 sql_scripts/
 │   ├── schema.sql
-│   └── healthcare\_bi\_queries.sql
+│   └── healthcare_bi_queries.sql
 │
-├── 📁 python\_etl/
+├── 📁 python_etl/
 │   └── healthcare-no-show-bi-project.ipynb
 │
-├── 📁 data/
-│   ├── dim\_patient.csv
-│   ├── dim\_location.csv
-│   └── fact\_appointment.csv
+├── 📁 cleaned_data/
+│   ├── dim_patient.csv
+│   ├── dim_location.csv
+│   └── fact_appointment.csv
 │
-├── 📁 tableau/
-│   ├── Dashboard\_1.png
-│   └── Dashboard\_2.png
-|
-|── 📁 ERD/
-│   ├── healthcare\_data\_modeling.png
+├── 📁 tableau_dashboards/
+│   ├── No_Show_Insights.twb
+│   └── Patient_Demographics_Repeat_Behavior.twb
 │
 └── README.md
-
 ```
 
 ---
@@ -113,6 +103,3 @@ Aspiring BI Analyst | SQL + Tableau | Data Storytelling
 ---
 
 ⭐️ If you liked this project, feel free to **star this repo** or **connect with me on LinkedIn**!
-```
-
----
