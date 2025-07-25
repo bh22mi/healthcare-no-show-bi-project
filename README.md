@@ -46,7 +46,7 @@ Healthcare-No-Show-BI/
 - ✅ No-Shows by Gender
 - ✅ Monthly No-Show Trends
 
-🔗 **[View Dashboard on Tableau Public](#)** *(https://public.tableau.com/views/HealthcareAppointmentNo-ShowAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
+🔗 **[View Dashboard on Tableau Public](#)** (https://public.tableau.com/views/HealthcareAppointmentNo-ShowAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
