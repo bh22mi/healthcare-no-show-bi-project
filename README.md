@@ -9,21 +9,22 @@ A complete Business Intelligence project analyzing why patients miss their appoi
 ```
 Healthcare-No-Show-BI/
 │
-├── 📁 sql_scripts/
+├── 📁 sql/
 │   ├── schema.sql
 │   └── healthcare_bi_queries.sql
 │
 ├── 📁 python_etl/
 │   └── healthcare-no-show-bi-project.ipynb
 │
-├── 📁 cleaned_data/
+├── 📁 data/
 │   ├── dim_patient.csv
 │   ├── dim_location.csv
 │   └── fact_appointment.csv
 │
-├── 📁 tableau_dashboards/
-│   ├── No_Show_Insights.twb
-│   └── Patient_Demographics_Repeat_Behavior.twb
+├── 📁 tableau/
+│   ├── Dashboard_1.png
+│   └── Dashboardd_2.png
+│   └── Tableau Public.txt
 │
 └── README.md
 ```
@@ -45,7 +46,7 @@ Healthcare-No-Show-BI/
 - ✅ No-Shows by Gender
 - ✅ Monthly No-Show Trends
 
-🔗 **[View Dashboard on Tableau Public](#)** *(Add your Tableau link)*
+🔗 **[View Dashboard on Tableau Public](#)** *(https://public.tableau.com/views/HealthcareAppointmentNo-ShowAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
 ---
 
@@ -96,9 +97,9 @@ Healthcare-No-Show-BI/
 
 ## 👩‍💻 Author
 
-**[Your Name]**  
-Aspiring BI Analyst | SQL + Tableau | Data Storytelling  
-🔗 [LinkedIn](#) • 🌐 [Portfolio](#)
+**[Bhoomika Harkhanee]**  
+Aspiring BI Analyst | SQL + Tableau + Python | Data Storytelling  
+🔗 [LinkedIn](www.linkedin.com/in/bhoomika-harkhanee-055223127)
 
 ---
 
